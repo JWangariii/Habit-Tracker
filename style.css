@@ -23,3 +23,20 @@ h2 {
   margin: 0 auto;
   padding: 20px;
 }
+
+.habit-list {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+}
+
+.habit-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.habit-item input {
+  margin-right: 8px;
+}
