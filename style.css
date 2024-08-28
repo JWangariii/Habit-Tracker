@@ -52,3 +52,16 @@ h2 {
   border: 1px solid #ddd;
   border-radius: 4px;
 }
+
+.add-habit-form button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #3498db;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-habit-form button:hover {
+  background-color: #2980b9;
+}
