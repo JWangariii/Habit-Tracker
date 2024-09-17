@@ -46,7 +46,7 @@ h2 {
   margin-top: 15px;
 }
 
-/* .add-habit-form input {
+.add-habit-form input {
   flex: 1;
   padding: 8px;
   border: 1px solid #ddd;
@@ -64,4 +64,4 @@ h2 {
 
 .add-habit-form button:hover {
   background-color: #2980b9;
-} */
+}
